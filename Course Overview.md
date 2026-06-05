@@ -35,7 +35,7 @@ There may be some typos in this current set of slides . Hopefully this will be c
     </tr>
     <tr>
       <td>Week #6</td>
-      <td>TAKE HOME MIDTERM</td>
+      <td> MIDTERM</td>
     </tr>
     <tr>
       <td></td>
